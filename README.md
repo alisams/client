@@ -16,6 +16,6 @@ step-  4    After login click on student list .
 
 Step-  5    then check your requirment is full fil yes or no.
 
-Step - 6    Please inform me i am shortlisted or not Thanks.
+Step - 6    Thanks.
 
-===================================================================================
+=========================================================
